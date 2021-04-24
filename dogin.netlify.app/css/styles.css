@@ -1,0 +1,156 @@
+/*body{
+  font-family: "Montserrat";
+}*/
+#title {
+  background-color: #ff4c68;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-family: "Montserrat-Light";
+  transition-duration: 2000ms;
+}
+
+.container-fluid {
+  padding: 3% 10%;
+}
+
+.top-div {
+  padding-bottom: 70px;
+}
+
+.h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  font-family: "Montserrat-Thin";
+  line-height: 1.5;
+  color: white;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.rotated-image {
+  width: 90%;
+  transform: rotate(25deg);
+  border-radius: 10%;
+}
+
+.white-dog {
+  padding-top: 70px;
+}
+
+.icon {
+  font-size: 3.5rem;
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+#features {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 143.396px;
+  padding-right: 143.396px;
+}
+
+.testimonial-reviews {
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+p {
+  font-weight: bolder;
+  color: #8f8f8f;
+}
+
+.col-lg-4 {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+/* TESTIMONIALS */
+#testimonials {
+  background-color: #ef8172;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+.carousel-item{
+  padding: 7% 13%;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 50%;
+  margin: 1rem;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo{
+  margin: 20px 20px 50px;
+  width: 15%;
+}
+
+/* PRICING SECTION */
+.testimonial-heading{
+  font-weight: bold;
+  font-size: 300%;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
+
+#breeds{
+  padding: 100px;
+  text-align: center;
+}
+
+.h3-cta{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#cta{
+  text-align: center;
+  color: white;
+  background-color: #393232;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#footer{
+  padding-bottom: 5px;
+  padding-top: 5px;
+  text-align: center;
+  background-color: #393232;
+}
